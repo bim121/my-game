@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b7cea3165602b4f9308fbed6f599fe, type: 3}
+  m_Name: Helmet
+  m_EditorClassIdentifier: 
+  icon: {fileID: -4548992743620234918, guid: ca2a2f826c5193f42978abf88b8f27d7, type: 3}
+  stackSize: 0
+  title: Awesome Helmet
+  quality: 3
+  price: 1
+  armorType: 0
+  intellect: 10
+  strength: 15
+  stamina: 8
